@@ -1,5 +1,14 @@
 # pharmavery-mobile
-PharmaVery Mobile App
-Flutter application for patients, caregivers and couriers.
 
-Status: Bootstrap
+Aplicación móvil de PharmaVery.
+
+## Stack
+- Flutter
+- Android / iOS
+
+## Modos de uso
+- Usuario mayor (interfaz simplificada)
+- Gestor familiar (interfaz avanzada)
+
+## Estado
+🚧 En desarrollo (MVP)
